@@ -19,6 +19,8 @@
     
     NSLog(@"Hello World.");
     
+    NSLog(@"Second Hello World.");
+    
     return YES;
 }
 
